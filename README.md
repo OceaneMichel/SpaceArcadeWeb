@@ -1,5 +1,5 @@
 # SpaceArcadeWeb
-https://oceanemichel.github.io/SpaceArcadeWeb
+https://oceanemichel.github.io/SpaceArcadeWeb  
 Controls: MOUSE to move the shuttle, Left click to shoot, right arrow and left arrow to change the bullet type
 
 TODO:
