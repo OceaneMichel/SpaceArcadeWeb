@@ -1,6 +1,5 @@
 # SpaceArcadeWeb
-
-Link : https://oceanemichel.github.io/SpaceArcadeWeb
+https://oceanemichel.github.io/SpaceArcadeWeb
 
 TODO:
 - Creating 10+ level content (WIP)
