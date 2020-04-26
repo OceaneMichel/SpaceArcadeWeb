@@ -1,5 +1,6 @@
 # SpaceArcadeWeb
 https://oceanemichel.github.io/SpaceArcadeWeb
+Controls: MOUSE to move the shuttle, Left click to shoot, right arrow and left arrow to change the bullet type
 
 TODO:
 - Creating 10+ level content (WIP)
@@ -11,6 +12,7 @@ TODO:
 - Kill the player when he's been blocked at the bottom 
   + add spikes at the bottom of the screen ?
  - Change player indicator to been seen through tunnels
+ - Change the vitesse according to the game evolution
  
 DONE:
 - Player inputs
