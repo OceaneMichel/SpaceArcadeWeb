@@ -3,7 +3,6 @@ https://oceanemichel.github.io/SpaceArcadeWeb
 Controls: MOUSE to move the shuttle, Left click to shoot, right arrow and left arrow to change the bullet type
 
 TODO:
-- Tutorial, menu controls
 - Feedback on damage (visual + audio) + set a small time of invicibility after damage
 - Add score at the end
 - Add scrolling starts in addition to backgorund
@@ -33,3 +32,4 @@ DONE:
 - Change player indicator to been seen through tunnels
 - Add feedback animation at entrance of the tunnels (not clear)
  - See the bullets through the tunnels
+- Tutorial, menu controls
