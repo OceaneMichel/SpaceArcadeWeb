@@ -9,7 +9,6 @@ TODO:
 - Add scrolling starts in addition to backgorund
 - Bullet animation on destroy
  - Change the vitesse according to the game evolution
- - See the bullets through the tunnels
  
 DONE:
 - Player inputs
@@ -33,3 +32,4 @@ DONE:
 - Change Zorder of tunnels (shader), below the life progressbar
 - Change player indicator to been seen through tunnels
 - Add feedback animation at entrance of the tunnels (not clear)
+ - See the bullets through the tunnels
