@@ -3,7 +3,6 @@ https://oceanemichel.github.io/SpaceArcadeWeb
 Controls: MOUSE to move the shuttle, Left click to shoot, right arrow and left arrow to change the bullet type
 
 TODO:
-- Bug: impossible transition between some levels
 - Change Zorder of tunnels (shader), below the life progressbar
 - Tutorial, menu controls
 - Feedback on damage (visual + audio) + set a small time of invicibility after damage
@@ -31,3 +30,4 @@ DONE:
 - Creating 10+ level content
 - Kill the player when he's been blocked at the bottom 
   + add spikes at the bottom of the screen ?
+- Bug: impossible transition between some levels
