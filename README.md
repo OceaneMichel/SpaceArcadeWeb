@@ -3,14 +3,13 @@ https://oceanemichel.github.io/SpaceArcadeWeb
 Controls: MOUSE to move the shuttle, Left click to shoot, right arrow and left arrow to change the bullet type
 
 TODO:
-- Change Zorder of tunnels (shader), below the life progressbar
 - Tutorial, menu controls
 - Feedback on damage (visual + audio) + set a small time of invicibility after damage
 - Add score at the end
 - Add scrolling starts in addition to backgorund
 - Bullet animation on destroy
- - Change player indicator to been seen through tunnels
  - Change the vitesse according to the game evolution
+ - See the bullets through the tunnels
  
 DONE:
 - Player inputs
@@ -31,3 +30,6 @@ DONE:
 - Kill the player when he's been blocked at the bottom 
   + add spikes at the bottom of the screen ?
 - Bug: impossible transition between some levels
+- Change Zorder of tunnels (shader), below the life progressbar
+- Change player indicator to been seen through tunnels
+- Add feedback animation at entrance of the tunnels (not clear)
