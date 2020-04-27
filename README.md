@@ -4,10 +4,9 @@ Controls: MOUSE to move the shuttle, Left click to shoot, right arrow and left a
 
 TODO:
 - Feedback on damage (visual + audio) + set a small time of invicibility after damage
-- Add score at the end
 - Add scrolling starts in addition to backgorund
 - Bullet animation on destroy
- - Change the vitesse according to the game evolution
+- Add item to show what color is next
  
 DONE:
 - Player inputs
@@ -33,3 +32,6 @@ DONE:
 - Add feedback animation at entrance of the tunnels (not clear)
  - See the bullets through the tunnels
 - Tutorial, menu controls
+ - Change the vitesse according to the game evolution
+ - Add score at the end
+- Gain more points when the speed is high
