@@ -6,8 +6,8 @@ TODO:
 - Feedback on damage (visual + audio) + set a small time of invicibility after damage
 - Add scrolling starts in addition to backgorund
 - Bullet animation on destroy
-- Add item to show what color is next
- 
+- Change split player colliders into 2: damage and collision detection
+
 DONE:
 - Player inputs
 - Auto scrolling of levels
@@ -35,3 +35,4 @@ DONE:
  - Change the vitesse according to the game evolution
  - Add score at the end
 - Gain more points when the speed is high
+- Add item to show what color is next
