@@ -6,7 +6,6 @@ TODO:
 - Feedback on damage (visual + audio) + set a small time of invicibility after damage
 - Add scrolling starts in addition to backgorund
 - Bullet animation on destroy
-- Change split player colliders into 2: damage and collision detection
 
 DONE:
 - Player inputs
@@ -36,3 +35,5 @@ DONE:
  - Add score at the end
 - Gain more points when the speed is high
 - Add item to show what color is next
+- Change split player colliders into 2: damage and collision detection
+- BUG: If player dies invincible, he starts invincible and stays red
