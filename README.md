@@ -3,7 +3,6 @@ https://oceanemichel.github.io/SpaceArcadeWeb
 Controls: MOUSE to move the shuttle, Left click to shoot, right arrow and left arrow to change the bullet type
 
 TODO:
-- Feedback on damage (visual + audio) + set a small time of invicibility after damage
 - Add scrolling starts in addition to backgorund
 - Bullet animation on destroy
 
@@ -37,3 +36,6 @@ DONE:
 - Add item to show what color is next
 - Change split player colliders into 2: damage and collision detection
 - BUG: If player dies invincible, he starts invincible and stays red
+- Feedback on damage (visual + audio) + set a small time of invicibility after damage
+- FEATURE: Add points when barriers are destroyed
+- Add qzsd keys for inputs
